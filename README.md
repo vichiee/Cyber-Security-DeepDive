@@ -1,6 +1,6 @@
-hi# Cybersecurity & Cloud Security Projects
+# Cybersecurity Deep Dive
 
-## 🚀 About Cyber-Security-DeepDive
+## 🚀 About
 Cyber-Security-DeepDive is a community-driven repository focused on **hands-on cybersecurity and cloud security projects**. It serves as a learning hub for security professionals, and engineers looking to **build real-world security knowledge** and prepare for technical interviews.
 
 ## 📁 Repository Structure

@@ -1,4 +1,4 @@
-# Cybersecurity & Cloud Security Projects
+hi# Cybersecurity & Cloud Security Projects
 
 ## 🚀 About Cyber-Security-DeepDive
 Cyber-Security-DeepDive is a community-driven repository focused on **hands-on cybersecurity and cloud security projects**. It serves as a learning hub for security professionals, and engineers looking to **build real-world security knowledge** and prepare for technical interviews.
@@ -27,7 +27,7 @@ SecuCloud/
 │── LICENSE                  # Open-source license (MIT, Apache, etc.)
 ```
 
-## 🎯 Goals of SecuCloud
+## 🎯 Goals of Cyber Security DeepDive
 - **Real-World Hands-On Learning:** Practical security projects covering cloud, DevSecOps, SOC, and AI security.
 - **Interview Readiness:** Projects and case studies to help prepare for security-focused job interviews using the **STAR method**.
 - **Focused Learning:** Covering **Azure Security, AWS Security, GCP Security, DLP, Firewalls**, and other key security technologies.
